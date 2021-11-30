@@ -2,7 +2,8 @@
 
 ## Goal
 
-Create your own terraformer program
+Create your own terraformer program.
+
 More détail in B-MUL-200_my_world.pdf
 
 ## Compile
